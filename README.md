@@ -32,10 +32,7 @@ To view the project locally, follow these steps:
 
 3. Open `index.html` in your preferred web browser.
 
-## Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Course Listings](screenshots/course-listings.png)
 
 ## Contributing
 
